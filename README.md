@@ -7,6 +7,3 @@
 ► **ACTION** : To ensure the collection of valid data, an exhaustive research methodology  was implemented, encompassing  the retrieval of booking records, meticulous examination of customer feedback, observation of prevailing market trends, and comprehensive analysis of industry best practices. Subsequently, sophisticated analytical tools were employed to discern and establish patterns and correlations in cancellation behavior, providing valuable insights for the study.
 
 ► **RESULT**: By proactively addressing the issue of high cancellation rates through the implementation of the recommended measures, both City Hotel and Resort Hotel significantly enhanced their revenue generation capabilities. By closely monitoring the impact of these measures, the hotels successfully can achieve a targeted reduction in cancellation  rates, measured as a percentage decrease in cancellations over a specified period.
-
-
-http://localhost:8888/notebooks/Hotel%20Room%20Data%20Analysis%20Project%20--%20Resume.ipynb
